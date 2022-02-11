@@ -1,2 +1,2 @@
 # Projet
-Jeu python pour la NSI
+# Jeu python pour la NSI
